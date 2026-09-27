@@ -1,0 +1,16 @@
+{
+  "display": {
+    "icon": { "item": "minecraft:golden_apple" },
+    "title": "帅气英俊",
+    "description": "天生的俊美容貌使你更容易获得水蛭妖的好感",
+    "frame": "task",
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "locked": { "trigger": "minecraft:impossible" }
+  },
+  "requirements": [["locked"]]
+}

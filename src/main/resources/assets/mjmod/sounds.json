@@ -1,0 +1,11 @@
+{
+  "leech_dialogue": {
+    "subtitle": "subtitle.mjmod.leech_dialogue",
+    "sounds": [
+      {
+        "name": "mjmod:leech_dialogue",
+        "stream": true
+      }
+    ]
+  }
+}

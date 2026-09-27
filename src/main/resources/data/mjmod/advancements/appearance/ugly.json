@@ -1,0 +1,16 @@
+{
+  "display": {
+    "icon": { "item": "minecraft:fermented_spider_eye" },
+    "title": "丑陋无比",
+    "description": "这副容貌令水蛭妖有时拒绝与你交谈",
+    "frame": "task",
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "locked": { "trigger": "minecraft:impossible" }
+  },
+  "requirements": [["locked"]]
+}

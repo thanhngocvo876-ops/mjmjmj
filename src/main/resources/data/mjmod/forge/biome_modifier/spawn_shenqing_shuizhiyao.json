@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:river",
+    "minecraft:frozen_river"
+  ],
+  "spawners": {
+    "type": "mjmod:shenqing_shuizhiyao",
+    "weight": 100,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "display": {
+    "icon": {"item": "minecraft:blaze_powder"},
+    "title": "控火天才",
+    "description": "控火经验获得双倍加成",
+    "frame": "task",
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {"unlocked": {"trigger": "minecraft:impossible"}},
+  "requirements": [["unlocked"]]
+}

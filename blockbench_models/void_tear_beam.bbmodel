@@ -1,0 +1,13 @@
+{
+  "meta": {"format_version": "4.10", "model_format": "modded_entity", "box_uv": true},
+  "name": "虚空之泪·直线泪流",
+  "model_identifier": "mjmod:void_tear_beam",
+  "resolution": {"width": 32, "height": 32},
+  "elements": [
+    {"name":"tear_beam_outer","from":[-1.2,-1.2,-10],"to":[1.2,1.2,10],"autouv":0,"color":0,"origin":[0,0,0],"rotation":[0,0,0],"uuid":"22ec4a5f-0ba2-4db2-9d21-2d419011a9e0","faces":{"north":{"uv":[0,0,4,20],"texture":0},"east":{"uv":[4,0,8,20],"texture":0},"south":{"uv":[8,0,12,20],"texture":0},"west":{"uv":[12,0,16,20],"texture":0},"up":{"uv":[16,0,20,4],"texture":0},"down":{"uv":[16,4,20,8],"texture":0}}},
+    {"name":"tear_beam_core","from":[-0.45,-0.45,-10.4],"to":[0.45,0.45,10.4],"autouv":0,"color":0,"origin":[0,0,0],"rotation":[0,0,0],"uuid":"cf996a5e-79c8-4f8b-a301-d2c4f0e8f7aa","faces":{"north":{"uv":[20,0,22,20],"texture":0},"east":{"uv":[22,0,24,20],"texture":0},"south":{"uv":[24,0,26,20],"texture":0},"west":{"uv":[26,0,28,20],"texture":0},"up":{"uv":[28,0,30,2],"texture":0},"down":{"uv":[28,2,30,4],"texture":0}}}
+  ],
+  "outliner": [{"name":"root","origin":[0,0,0],"color":0,"uuid":"5d6ca8c7-3b68-4b4f-ae87-0d68d2eb14d6","export":true,"isOpen":true,"children":["22ec4a5f-0ba2-4db2-9d21-2d419011a9e0","cf996a5e-79c8-4f8b-a301-d2c4f0e8f7aa"]}],
+  "textures": [{"path":"void_tear_beam.png","name":"void_tear_beam.png","folder":"","namespace":"mjmod","id":"void_tear_beam","particle":true,"render_mode":"translucent","visible":true,"internal":false,"double_sided":true,"saved":true,"uuid":"c1e3e8b4-9328-4bbf-9d43-24b6a7cfde31"}],
+  "display": {}
+}

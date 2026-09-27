@@ -1,0 +1,37 @@
+# Gradle / build output
+.gradle/
+build/
+
+# Minecraft development runtime data
+run/
+
+# Local backups and generated archives
+backup_*/
+*.jar
+*.log
+
+# Agent notes, extracted dependency sources, and decompiler artifacts
+.hermes/
+.tools/
+anim_extract/
+anim102_extract/
+anim_src_extract/
+*.javap
+*.class
+*.patch
+srg_map.xml
+
+# IDE/task metadata and local exports
+.vscode/
+exports/
+
+# Local IDE metadata
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db

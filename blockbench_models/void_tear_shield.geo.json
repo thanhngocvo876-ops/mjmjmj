@@ -1,0 +1,16 @@
+{
+  "format_version":"1.12.0",
+  "minecraft:geometry":[{
+    "description":{"identifier":"geometry.void_tear_shield","texture_width":64,"texture_height":64,"visible_bounds_width":5,"visible_bounds_height":5,"visible_bounds_offset":[0,0,0]},
+    "bones":[{"name":"root","pivot":[0,0,0],"cubes":[
+      {"origin":[-11,-26,-2],"size":[22,52,4],"uv":[0,0]},
+      {"origin":[-28,-14,-2],"size":[22,30,4],"uv":[0,0]},
+      {"origin":[6,-14,-2],"size":[22,30,4],"uv":[0,0]},
+      {"origin":[-22,-32,-2],"size":[18,23,4],"uv":[0,0]},
+      {"origin":[-9,-37,-2],"size":[18,25,4],"uv":[0,0]},
+      {"origin":[4,-32,-2],"size":[18,23,4],"uv":[0,0]},
+      {"origin":[-23,11,-2],"size":[20,21,4],"uv":[0,0]},
+      {"origin":[3,11,-2],"size":[20,21,4],"uv":[0,0]}
+    ]}]
+  }]
+}

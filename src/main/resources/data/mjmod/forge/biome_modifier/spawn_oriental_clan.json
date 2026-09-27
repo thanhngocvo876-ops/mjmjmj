@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:plains",
+    "minecraft:sunflower_plains"
+  ],
+  "spawners": {
+    "type": "mjmod:oriental_clan",
+    "weight": 100,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

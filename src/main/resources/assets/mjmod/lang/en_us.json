@@ -1,0 +1,43 @@
+{
+  "item.mjmod.void_tears_helmet": "Void Tears (Artifact Unlock)",
+  "effect.mjmod.severely_wounded": "Severely Wounded",
+  "effect.mjmod.dizziness": "Dizziness",
+  "effect.mjmod.void_tears_severing": "Severing",
+  "effect.mjmod.void_tears_gravity": "Void Tears Gravity",
+  "item.mjmod.onion": "Onion (Void Tears Catalyst)",
+  "item.mjmod.qianli_yuanxing_fu": "Thousand-League Travel Talisman",
+  "item.mjmod.player_hair": "Player Hair",
+  "item.mjmod.thunder_accel_technique": "Thunder Acceleration Technique",
+  "key.mjmod.open_void_tears_heart": "Open Tragic Heart GUI (P)",
+  "key.mjmod.void_tears_switch": "Switch Void Tears Skill (R)",
+  "key.mjmod.void_tears_cast": "Cast Void Tears Skill (Z)",
+  "key.mjmod.blood_exchange": "Cast Blood Exchange (X)",
+  "key.mjmod.open_void_tears_points": "Open Void Tears Teleport (U)",
+  "key.categories.mjmod": "Fox Demon MJ",
+  "entity.mjmod.ehuishou": "Ehuishou",
+  "entity.mjmod.shenqing_shuizhiyao": "Mysterious Deep-Feeling Leech Demon",
+  "entity.mjmod.oriental_clan": "Wandering Oriental Clan",
+  "effect.mjmod.handsome": "Handsome",
+  "effect.mjmod.ugly": "Ugly",
+  "subtitle.mjmod.leech_dialogue": "The leech demon's melody"
+  ,"key.mjmod.pure_fire_switch": "Switch Pure Fire Skill Slot (G)"
+  ,"key.mjmod.pure_fire_cast": "Cast Pure Fire Skill (C)"
+  ,"key.mjmod.pure_fire_meditate": "Meditate Pure Fire (H)"
+  ,"key.mjmod.open_pure_fire_talent": "Open Pure Fire Talent Tree (O)"
+  ,"entity.mjmod.pure_fire_punch": "Pure Fire Straight Punch"
+  ,"effect.mjmod.pure_fire_hand_form": "Pure Fire Hands"
+  ,"effect.mjmod.pure_fire_blade_hold": "Pure Fire Blade"
+  ,"effect.mjmod.pure_fire_scheme_a": "Pure Fire · Speed Type"
+  ,"effect.mjmod.pure_fire_scheme_b": "Pure Fire · Defense Type"
+  ,"effect.mjmod.pure_fire_scheme_d": "Pure Fire · Balanced Type"
+  ,"effect.mjmod.pure_yang_body_protection": "Pure Yang Body Protection"
+  ,"effect.mjmod.impalement": "Impalement"
+  ,"entity.mjmod.pure_fire_cleave": "Pure Fire Cleave"
+  ,"entity.mjmod.pure_fire_thrust": "Pure Fire Thrust"
+  ,"entity.mjmod.pure_fire_wall": "Pure Fire Wall"
+  ,"entity.mjmod.pure_fire_wall_cast": "Pure Fire Wall Cast"
+  ,"entity.mjmod.pure_fire_domain": "Pure Fire Domain"
+  ,"item.mjmod.pure_fire_main_hand": "Pure Fire (Main Hand)"
+  ,"item.mjmod.pure_fire_off_hand": "Pure Fire (Off Hand)"
+  ,"key.mjmod.thunder_accel": "Thunder Acceleration (B)"
+}

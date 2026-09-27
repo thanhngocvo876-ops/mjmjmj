@@ -1,0 +1,6 @@
+{
+  "parent": "mjmod:void_tears/level_1",
+  "display": {"icon": {"item": "minecraft:lapis_lazuli"}, "title": "虚空之泪·悲情渐深", "description": "悲情之心达到25%", "frame": "task", "show_toast": true, "announce_to_chat": true},
+  "criteria": {"unlocked": {"trigger": "minecraft:impossible"}},
+  "requirements": [["unlocked"]]
+}

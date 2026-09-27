@@ -1,0 +1,308 @@
+{
+  "meta": {
+    "format_version": "4.10",
+    "model_format": "free",
+    "box_uv": true
+  },
+  "name": "纯质阳炎·武术直立冲拳",
+  "model_identifier": "mjmod:pure_fire_straight_punch",
+  "resolution": {
+    "width": 64,
+    "height": 64
+  },
+  "elements": [
+    {
+      "name": "torso",
+      "from": [-4, 0, -2],
+      "to": [4, 12, 2],
+      "autouv": 0,
+      "color": 0,
+      "origin": [0, 0, 0],
+      "uuid": "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1001",
+      "faces": {
+        "north": {"uv": [0, 0, 16, 16], "texture": 0},
+        "east": {"uv": [16, 0, 32, 16], "texture": 0},
+        "south": {"uv": [32, 0, 48, 16], "texture": 0},
+        "west": {"uv": [48, 0, 64, 16], "texture": 0},
+        "up": {"uv": [0, 16, 16, 32], "texture": 0},
+        "down": {"uv": [16, 16, 32, 32], "texture": 0}
+      }
+    },
+    {
+      "name": "head",
+      "from": [-4, 12, -4],
+      "to": [4, 20, 4],
+      "autouv": 0,
+      "color": 1,
+      "origin": [0, 12, 0],
+      "uuid": "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1002",
+      "faces": {
+        "north": {"uv": [0, 0, 16, 16], "texture": 0}, "east": {"uv": [16, 0, 32, 16], "texture": 0},
+        "south": {"uv": [32, 0, 48, 16], "texture": 0}, "west": {"uv": [48, 0, 64, 16], "texture": 0},
+        "up": {"uv": [0, 16, 16, 32], "texture": 0}, "down": {"uv": [16, 16, 32, 32], "texture": 0}
+      }
+    },
+    {
+      "name": "right_arm",
+      "from": [-8, 0, -2],
+      "to": [-4, 12, 2],
+      "autouv": 0,
+      "color": 2,
+      "origin": [-5, 10, 0],
+      "uuid": "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1003",
+      "faces": {
+        "north": {"uv": [0, 0, 16, 16], "texture": 0}, "east": {"uv": [16, 0, 32, 16], "texture": 0},
+        "south": {"uv": [32, 0, 48, 16], "texture": 0}, "west": {"uv": [48, 0, 64, 16], "texture": 0},
+        "up": {"uv": [0, 16, 16, 32], "texture": 0}, "down": {"uv": [16, 16, 32, 32], "texture": 0}
+      }
+    },
+    {
+      "name": "left_arm",
+      "from": [4, 0, -2],
+      "to": [8, 12, 2],
+      "autouv": 0,
+      "color": 3,
+      "origin": [5, 10, 0],
+      "uuid": "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1004",
+      "faces": {
+        "north": {"uv": [0, 0, 16, 16], "texture": 0}, "east": {"uv": [16, 0, 32, 16], "texture": 0},
+        "south": {"uv": [32, 0, 48, 16], "texture": 0}, "west": {"uv": [48, 0, 64, 16], "texture": 0},
+        "up": {"uv": [0, 16, 16, 32], "texture": 0}, "down": {"uv": [16, 16, 32, 32], "texture": 0}
+      }
+    },
+    {
+      "name": "right_leg",
+      "from": [-4, -12, -2],
+      "to": [0, 0, 2],
+      "autouv": 0,
+      "color": 4,
+      "origin": [-2, 0, 0],
+      "uuid": "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1005",
+      "faces": {
+        "north": {"uv": [0, 0, 16, 16], "texture": 0}, "east": {"uv": [16, 0, 32, 16], "texture": 0},
+        "south": {"uv": [32, 0, 48, 16], "texture": 0}, "west": {"uv": [48, 0, 64, 16], "texture": 0},
+        "up": {"uv": [0, 16, 16, 32], "texture": 0}, "down": {"uv": [16, 16, 32, 32], "texture": 0}
+      }
+    },
+    {
+      "name": "left_leg",
+      "from": [0, -12, -2],
+      "to": [4, 0, 2],
+      "autouv": 0,
+      "color": 5,
+      "origin": [2, 0, 0],
+      "uuid": "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1006",
+      "faces": {
+        "north": {"uv": [0, 0, 16, 16], "texture": 0}, "east": {"uv": [16, 0, 32, 16], "texture": 0},
+        "south": {"uv": [32, 0, 48, 16], "texture": 0}, "west": {"uv": [48, 0, 64, 16], "texture": 0},
+        "up": {"uv": [0, 16, 16, 32], "texture": 0}, "down": {"uv": [16, 16, 32, 32], "texture": 0}
+      }
+    },
+    {
+      "name": "right_fist_flame",
+      "from": [-8.1, 6.8, -2.6],
+      "to": [-3.9, 11.2, 2.6],
+      "autouv": 0,
+      "color": 6,
+      "origin": [-5, 10, 0],
+      "uuid": "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1007",
+      "faces": {
+        "north": {"uv": [0, 0, 16, 16], "texture": 0}, "east": {"uv": [16, 0, 32, 16], "texture": 0},
+        "south": {"uv": [32, 0, 48, 16], "texture": 0}, "west": {"uv": [48, 0, 64, 16], "texture": 0},
+        "up": {"uv": [0, 16, 16, 32], "texture": 0}, "down": {"uv": [16, 16, 32, 32], "texture": 0}
+      }
+    },
+    {
+      "name": "right_fist_trail",
+      "from": [-6.0, 7.4, -12.0],
+      "to": [-4.0, 10.6, -1.5],
+      "autouv": 0,
+      "color": 7,
+      "origin": [-5, 10, 0],
+      "uuid": "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1008",
+      "faces": {
+        "north": {"uv": [0, 0, 16, 16], "texture": 0}, "east": {"uv": [16, 0, 32, 16], "texture": 0},
+        "south": {"uv": [32, 0, 48, 16], "texture": 0}, "west": {"uv": [48, 0, 64, 16], "texture": 0},
+        "up": {"uv": [0, 16, 16, 32], "texture": 0}, "down": {"uv": [16, 16, 32, 32], "texture": 0}
+      }
+    }
+  ],
+  "outliner": [
+    {
+      "name": "root",
+      "origin": [0, 0, 0],
+      "uuid": "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1000",
+      "children": [
+        "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1009",
+        "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1010",
+        "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1011",
+        "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1012",
+        "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1013",
+        "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1014"
+      ]
+    },
+    {
+      "name": "right_arm",
+      "origin": [-5, 10, 0],
+      "uuid": "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1009",
+      "children": [
+        "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1015",
+        "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1016",
+        "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1003"
+      ]
+    },
+    {
+      "name": "left_arm",
+      "origin": [5, 10, 0],
+      "uuid": "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1010",
+      "children": ["9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1004"]
+    },
+    {
+      "name": "torso",
+      "origin": [0, 0, 0],
+      "uuid": "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1011",
+      "children": ["9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1001"]
+    },
+    {
+      "name": "head",
+      "origin": [0, 12, 0],
+      "uuid": "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1012",
+      "children": ["9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1002"]
+    },
+    {
+      "name": "right_leg",
+      "origin": [-2, 0, 0],
+      "uuid": "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1013",
+      "children": ["9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1005"]
+    },
+    {
+      "name": "left_leg",
+      "origin": [2, 0, 0],
+      "uuid": "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1014",
+      "children": ["9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1006"]
+    },
+    {
+      "name": "right_fist_flame",
+      "origin": [-5, 10, 0],
+      "uuid": "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1015",
+      "children": ["9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1007"]
+    },
+    {
+      "name": "right_fist_trail",
+      "origin": [-5, 10, 0],
+      "uuid": "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1016",
+      "children": ["9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1008"]
+    }
+  ],
+  "textures": [
+    {
+      "path": "../src/main/resources/assets/mjmod/textures/effect/pure_fire_flame_32.png",
+      "name": "pure_fire_flame_32.png",
+      "folder": "",
+      "namespace": "mjmod",
+      "id": "pure_fire_flame_32",
+      "particle": true,
+      "render_mode": "translucent",
+      "visible": true,
+      "internal": false,
+      "double_sided": true,
+      "saved": true,
+      "uuid": "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1017"
+    }
+  ],
+  "animations": [
+    {
+      "name": "纯质阳炎·直冲拳",
+      "loop": "once",
+      "override": false,
+      "length": 0.7,
+      "snapping": 20,
+      "selected": true,
+      "animators": {
+        "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1009": {
+          "name": "right_arm",
+          "type": "bone",
+          "keyframes": [
+            {"channel": "rotation", "data_points": [{"x": 17, "y": 0, "z": 0}], "time": 0, "interpolation": "smooth"},
+            {"channel": "rotation", "data_points": [{"x": 54, "y": 0, "z": 0}], "time": 0.15, "interpolation": "smooth"},
+            {"channel": "rotation", "data_points": [{"x": -85, "y": -2, "z": 1}], "time": 0.45, "interpolation": "smooth"},
+            {"channel": "rotation", "data_points": [{"x": -85, "y": -2, "z": 1}], "time": 0.55, "interpolation": "linear"},
+            {"channel": "rotation", "data_points": [{"x": 6, "y": 0, "z": 0}], "time": 0.7, "interpolation": "smooth"}
+          ]
+        },
+        "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1010": {
+          "name": "left_arm",
+          "type": "bone",
+          "keyframes": [
+            {"channel": "rotation", "data_points": [{"x": 6, "y": 0, "z": -6}], "time": 0},
+            {"channel": "rotation", "data_points": [{"x": 18, "y": -2, "z": -8}], "time": 0.15},
+            {"channel": "rotation", "data_points": [{"x": 36, "y": -2, "z": -8}], "time": 0.45},
+            {"channel": "rotation", "data_points": [{"x": 36, "y": -2, "z": -8}], "time": 0.55},
+            {"channel": "rotation", "data_points": [{"x": 6, "y": 0, "z": -6}], "time": 0.7}
+          ]
+        },
+        "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1011": {
+          "name": "torso",
+          "type": "bone",
+          "keyframes": [
+            {"channel": "rotation", "data_points": [{"x": 0, "y": 0, "z": 0}], "time": 0},
+            {"channel": "rotation", "data_points": [{"x": -8, "y": 0, "z": 0}], "time": 0.15},
+            {"channel": "rotation", "data_points": [{"x": -8, "y": 0, "z": 0}], "time": 0.55},
+            {"channel": "rotation", "data_points": [{"x": 0, "y": 0, "z": 0}], "time": 0.7}
+          ]
+        },
+        "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1013": {
+          "name": "right_leg",
+          "type": "bone",
+          "keyframes": [
+            {"channel": "rotation", "data_points": [{"x": 0, "y": 0, "z": 0}], "time": 0},
+            {"channel": "rotation", "data_points": [{"x": 6, "y": 0, "z": 0}], "time": 0.15},
+            {"channel": "rotation", "data_points": [{"x": 6, "y": 0, "z": 0}], "time": 0.55},
+            {"channel": "rotation", "data_points": [{"x": 0, "y": 0, "z": 0}], "time": 0.7}
+          ]
+        },
+        "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1014": {
+          "name": "left_leg",
+          "type": "bone",
+          "keyframes": [
+            {"channel": "rotation", "data_points": [{"x": 0, "y": 0, "z": 0}], "time": 0},
+            {"channel": "rotation", "data_points": [{"x": -3, "y": 0, "z": 0}], "time": 0.15},
+            {"channel": "rotation", "data_points": [{"x": -3, "y": 0, "z": 0}], "time": 0.55},
+            {"channel": "rotation", "data_points": [{"x": 0, "y": 0, "z": 0}], "time": 0.7}
+          ]
+        },
+        "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1012": {
+          "name": "head",
+          "type": "bone",
+          "keyframes": [
+            {"channel": "rotation", "data_points": [{"x": 0, "y": 0, "z": 0}], "time": 0},
+            {"channel": "rotation", "data_points": [{"x": 0, "y": 0, "z": 0}], "time": 0.7}
+          ]
+        },
+        "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1015": {
+          "name": "right_fist_flame",
+          "type": "bone",
+          "keyframes": [
+            {"channel": "scale", "data_points": [{"x": 0.55, "y": 0.55, "z": 0.55}], "time": 0},
+            {"channel": "scale", "data_points": [{"x": 1, "y": 1, "z": 1}], "time": 0.15},
+            {"channel": "scale", "data_points": [{"x": 1.1, "y": 1.1, "z": 1.1}], "time": 0.45},
+            {"channel": "scale", "data_points": [{"x": 1.1, "y": 1.1, "z": 1.1}], "time": 0.55},
+            {"channel": "scale", "data_points": [{"x": 0.4, "y": 0.4, "z": 0.4}], "time": 0.7}
+          ]
+        },
+        "9b7c2d8e-5dcf-4c62-9a9b-1a5b8f0d1016": {
+          "name": "right_fist_trail",
+          "type": "bone",
+          "keyframes": [
+            {"channel": "scale", "data_points": [{"x": 0, "y": 0, "z": 0}], "time": 0},
+            {"channel": "scale", "data_points": [{"x": 0.7, "y": 0.7, "z": 1}], "time": 0.15},
+            {"channel": "scale", "data_points": [{"x": 1, "y": 1, "z": 1}], "time": 0.45},
+            {"channel": "scale", "data_points": [{"x": 1, "y": 1, "z": 1}], "time": 0.55},
+            {"channel": "scale", "data_points": [{"x": 0, "y": 0, "z": 0}], "time": 0.7}
+          ]
+        }
+      }
+    }
+  ],
+  "display": {}
+}

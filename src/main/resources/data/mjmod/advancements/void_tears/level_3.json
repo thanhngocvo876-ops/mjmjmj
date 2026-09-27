@@ -1,0 +1,6 @@
+{
+  "parent": "mjmod:void_tears/level_2",
+  "display": {"icon": {"item": "minecraft:diamond"}, "title": "虚空之泪·哀恸回响", "description": "悲情之心达到50%", "frame": "challenge", "show_toast": true, "announce_to_chat": true},
+  "criteria": {"unlocked": {"trigger": "minecraft:impossible"}},
+  "requirements": [["unlocked"]]
+}

@@ -1,0 +1,5 @@
+{
+  "display": {"icon": {"item": "mjmod:void_tears_helmet"}, "title": "虚空之泪·初醒", "description": "获得虚空之泪法宝权限", "frame": "task", "background": "minecraft:textures/gui/advancements/backgrounds/stone.png", "show_toast": true, "announce_to_chat": true},
+  "criteria": {"unlocked": {"trigger": "minecraft:impossible"}},
+  "requirements": [["unlocked"]]
+}
